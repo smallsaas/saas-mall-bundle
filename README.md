@@ -12,7 +12,6 @@
 | 私域小程序         | `git@gitee.com:kequandian/alliance-miniweb.git`
 | 私域 api          | `git@gitee.com:kequandian/alliance-api.git`
 | 私域 admin        | `git@gitee.com:kequandian/alliance-web.git`
-| 私域 webapp       | `git@github.com:smallsaas/biliya.git`
 
 ### 标准商城 
 | **功能**           | **代码仓库**
