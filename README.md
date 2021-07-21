@@ -4,7 +4,9 @@
 ### SaaS商城资源整合
 | **功能**               | **代码仓库**                                                 
 | ---------------------- | ------------------------------------------------------------ 
-| **商城`API`文档**        | https://github.com/kequandian/mall-webapp-api-reference
+| **商城`API`文档**      | `https://github.com/kequandian/mall-webapp-api-reference`  
+| **大屏幕`DataV`**    | `https://github.com/DataV-Team/DataV-React`
+
 
 ### 私域商城 
 | **功能**           | **代码仓库**
